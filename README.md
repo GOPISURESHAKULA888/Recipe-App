@@ -22,7 +22,7 @@ The search bar can be used to search for a particular recipe, by entering the re
   <li>Bootsrap</li></ul>
 
 ## Author 
-Sushil Munfan
+GOPISURESH AKULA
 
 
 
